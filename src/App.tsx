@@ -198,6 +198,7 @@ function App() {
         <header className="mb-8 flex items-center gap-4">
           <Brain className="w-10 h-10 text-blue-500" />
           <h1 className="text-3xl font-bold text-gray-800">Nurikabe Puzzle</h1>
+          <p>Note: in dev mode you need to click on the puzzle at least once before the spacebar toggle works.</p>
         </header>
 
         <div className="flex gap-8">
